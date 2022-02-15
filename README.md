@@ -9,4 +9,6 @@ The ML model has been implemented in two ways:
   <li> Apriori Rule Associative Learning Algorithm </li>
   <li> Eclat Rule Associative Learning Algorithm </li> 
   </ol>
+  
+  
 The ML Apriori Associative learning algorithm has been deployed to find the associations and correlations amongst the purchased items.Apriori algorithm evaluates the results based on three parameters: Support, Confidence and Lift whilst the Eclat algorithm categorizes the associations only based on support.This would then help the shop-owner to give attractive offers based on the analyzed data and increase the sales.
